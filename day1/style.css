@@ -1,0 +1,14 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+#reg-form {
+  display: flex;
+  justify-content: center;
+}
+#heading {
+  background-color: aqua;
+  font-size: 40px;
+  border: 10px solid black;
+}
