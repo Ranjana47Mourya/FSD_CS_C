@@ -1,0 +1,34 @@
+.flex-container {
+  position: fixed;
+  background-color: black;
+}
+.header {
+  width: 100%;
+  height: 10vh;
+  background-color: darkslategray;
+}
+.nev {
+  width: 100%;
+  height: 5vh;
+  background-color: goldenrod;
+}
+.container {
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  background-color: aqua;
+}
+.content {
+  width: 20vw;
+  background-color: yellow;
+}
+.display {
+  width: 80vw;
+
+  background-color: brown;
+}
+.footer {
+  width: 100%;
+  height: 5vh;
+  background-color: blueviolet;
+}
